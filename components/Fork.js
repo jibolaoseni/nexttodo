@@ -6,7 +6,7 @@ const Fork = ({ stars }) => (
 			className="material-icons mdl-badge mdl-badge--overlap"
 			data-badge={stars || 0}
 		>
-			<a href="https://github.com/ooade/NextSimpleStarter">
+			<a href="https://github.com/jibolaoseni/todonext">
 				<button className="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
 					Fork me
 				</button>
