@@ -30,7 +30,7 @@ const Todo = ({ todos, addTodo, removeTodo }) => {
 						id="input"
 					/>
 					<label className="mdl-textfield__label" htmlFor="input">
-						What must be done?
+						Add task to your list here?
 					</label>
 				</div>
 			</form>
