@@ -1,6 +1,8 @@
 # todonext
 A simple to do app
-Clone repository 
+
+Clone repository
+
 git clone https://github.com/jibolaoseni/todonext.git
 cd todonext
 npm install 
