@@ -14,6 +14,7 @@ const Fork = ({ stars }) => (
 				</button>
 			</a>
 		</div>
+		
 		<style>{`
 			.mdl-badge {
 				position: absolute;

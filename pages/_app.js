@@ -29,7 +29,7 @@ export default withRedux(initStore, {
 					<Head>
 						<title>Simple To DO app`</title>
 					</Head>
-					<body> A simple and efficient to do app.
+					<body className="mdl-button mdl-js-button mdl-button"> A simple and efficient to do app.
 						
 					</body>
 					<Provider store={store}>
